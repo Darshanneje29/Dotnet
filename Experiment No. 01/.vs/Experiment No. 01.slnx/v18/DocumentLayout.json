@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\6th Semister\\Application Development Using .NET lecture\\Experiments\\Experiment No. 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B96531FC-61C3-4943-B649-E48F343165FD}|Experiment No. 01\\Experiment No. 01.csproj|d:\\6th semister\\application development using .net lecture\\experiments\\experiment no. 01\\experiment no. 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96531FC-61C3-4943-B649-E48F343165FD}|Experiment No. 01\\Experiment No. 01.csproj|solutionrelative:experiment no. 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\6th Semister\\Application Development Using .NET lecture\\Experiments\\Experiment No. 01\\Experiment No. 01\\Program.cs",
+              "RelativeDocumentMoniker": "Experiment No. 01\\Program.cs",
+              "ToolTip": "D:\\6th Semister\\Application Development Using .NET lecture\\Experiments\\Experiment No. 01\\Experiment No. 01\\Program.cs",
+              "RelativeToolTip": "Experiment No. 01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T07:46:00.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

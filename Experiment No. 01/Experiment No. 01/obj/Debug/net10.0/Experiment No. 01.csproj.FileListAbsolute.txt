@@ -1,0 +1,14 @@
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\bin\Debug\net10.0\Experiment No. 01.exe
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\bin\Debug\net10.0\Experiment No. 01.deps.json
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\bin\Debug\net10.0\Experiment No. 01.runtimeconfig.json
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\bin\Debug\net10.0\Experiment No. 01.dll
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\bin\Debug\net10.0\Experiment No. 01.pdb
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\obj\Debug\net10.0\Experiment No. 01.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\obj\Debug\net10.0\Experiment No. 01.AssemblyInfoInputs.cache
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\obj\Debug\net10.0\Experiment No. 01.AssemblyInfo.cs
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\obj\Debug\net10.0\Experiment No. 01.csproj.CoreCompileInputs.cache
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\obj\Debug\net10.0\Experiment No. 01.dll
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\obj\Debug\net10.0\refint\Experiment No. 01.dll
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\obj\Debug\net10.0\Experiment No. 01.pdb
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\obj\Debug\net10.0\Experiment No. 01.genruntimeconfig.cache
+D:\6th Semister\Application Development Using .NET lecture\Experiments\Experiment No. 01\Experiment No. 01\obj\Debug\net10.0\ref\Experiment No. 01.dll
