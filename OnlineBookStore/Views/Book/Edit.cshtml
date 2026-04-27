@@ -1,0 +1,10 @@
+@model OnlineBookStore.Models.Book
+<h2>Edit Book</h2>
+<form method="post">
+<input type="hidden" asp-for="Id"/>
+<input asp-for="Title"/><br/>
+<input asp-for="Author"/><br/>
+<input asp-for="Price"/><br/>
+<input asp-for="Quantity"/><br/>
+<button type="submit">Update</button>
+</form>
